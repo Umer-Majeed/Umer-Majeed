@@ -1,0 +1,17 @@
+#include<introduction.rdme>
+using namespace std;
+
+int main(){
+
+  👋 Hi, I’m @Umer-Majeed  
+  🎓 I'm a BS Artificial Intelligence student (2025 - Present)  
+  💻 I’m interested in AI, Data Analytics, and Creative Coding  
+  📚 I’m currently learning Python, C++, Java, and exploring machine learning  
+  🤝 I’m looking to collaborate on real-world AI projects and creative tech solutions  
+  📩 How to reach me: [LinkedIn](Umer Majeed) | [Email](umarmajeed786k@gmail.com)  
+  🧠 Fun fact: I blend design & code — from thumbnails to algorithms  
+  🚀 Co-founder of Tri Unity Alpha (TUA) – a growing digital marketing startup
+
+cout<<" Thanks For The Visit "
+return Walikum Salam(0);
+}
