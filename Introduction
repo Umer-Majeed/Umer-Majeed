@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+/*
 
   👋 Hi, I’m @Umer-Majeed  
   🎓 I'm a BS Artificial Intelligence student (2025 - Present)  
@@ -12,6 +13,7 @@ int main(){
   🧠 Fun fact: I blend design & code — from thumbnails to algorithms  
   🚀 Co-founder of Tri Unity Alpha (TUA) – a growing digital marketing startup
 
-cout<<" Thanks For The Visit "
+*/
+cout<<" Thanks For The Visit ";
 return Walikum Salam(0);
 }
